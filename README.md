@@ -77,6 +77,3 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 ## Autor
 
 **Maurício Cepinho**
-
-* **GitHub**: `https://github.com/seu-usuario`
-* **LinkedIn**: `https://linkedin.com/in/seu-usuario`
